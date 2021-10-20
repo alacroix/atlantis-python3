@@ -1,4 +1,4 @@
-FROM runatlantis/atlantis:v0.16.0
+FROM ghcr.io/runatlantis/atlantis:v0.17.4
 
 # ############################################################ #
 # https://github.com/Docker-Hub-frolvlad/docker-alpine-python3 #
